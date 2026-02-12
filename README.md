@@ -19,7 +19,7 @@ I'm a cybersecurity professional specialising in **Cloud Security**, **Threat In
 
 ## 📂 Featured Projects
 
-### 🔒 [Cloud Security Projects](./cloud-security/)
+### 🔒 [Cloud Security Projects](./cloud-security/README.md)
 
 Enterprise-grade security implementations in Microsoft Azure for Prafydob Corp.
 
